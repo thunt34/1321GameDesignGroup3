@@ -30,5 +30,4 @@ int main() {
 
 	bank b1(savings, wallet);
 	b1.interact();
-
 }
