@@ -9,6 +9,7 @@ bank::bank(short a, int b, int c) {
 }
 
 bank::bank(int a, int b) {
+	region = 0;
 	savings = a;
 	wallet = b;
 } // non-region specific overload for troubleshooting
