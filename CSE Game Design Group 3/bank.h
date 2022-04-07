@@ -2,11 +2,9 @@
 #include <string>
 
 class bank {
-private:
-	double interest;
-
 public:
 	int savings, wallet;
+	double interest;
 	bank(double a, int b, int c);
 	bank(int a, int b);
 	int withdraw(int amt);

@@ -1,6 +1,8 @@
 #include "bank.h"
 #include <string>
 #include <iostream>
+#include <chrono>
+#include <thread>
 
 bank::bank(double a, int b, int c) {
 	interest = a;
@@ -9,10 +11,10 @@ bank::bank(double a, int b, int c) {
 }
 
 bank::bank(int a, int b) {
-	interest = 0;
+	interest = 0.00;
 	savings = a;
 	wallet = b;
-} // non-region specific overload for troubleshooting
+}
 
 int bank::withdraw(int amt) {
 	savings -= amt;
@@ -30,7 +32,10 @@ void bank::interact() {
 	short exit = 0;
 	short select;
 	int amt;
+	bool madeDeposit = 0;
 	
+	savings = savings * (1 + interest);
+
 	std::cout << "Welcome to the bank! You currently have " << savings << " coins in your account!\n";
 	while (exit == 0) {
 		exit = 0;
@@ -54,6 +59,7 @@ void bank::interact() {
 				}
 				else {
 					bank::deposit(amt);
+					madeDeposit = 1;
 					std::cout << "You now have " << savings << " coins in your account.\n";
 				}
 			}
@@ -81,9 +87,14 @@ void bank::interact() {
 		case 3:
 			std::cout << "Have a great day!\n";
 			exit = 1;
+			std::this_thread::sleep_for(std::chrono::seconds(2));
+			system("cls");
 			break;
 		default:
 			std::cout << "Sorry, I don't know how to help you with that!\n";
 		}
+	}
+	if (madeDeposit == 1) {
+		interest = interest + 0.2;
 	}
 }
