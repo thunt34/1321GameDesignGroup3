@@ -2,14 +2,14 @@
 #include <string>
 #include <iostream>
 
-bank::bank(short a, int b, int c) {
-	region = a;
+bank::bank(double a, int b, int c) {
+	interest = a;
 	savings = b;
 	wallet = c;
 }
 
 bank::bank(int a, int b) {
-	region = 0;
+	interest = 0;
 	savings = a;
 	wallet = b;
 } // non-region specific overload for troubleshooting
@@ -86,7 +86,4 @@ void bank::interact() {
 			std::cout << "Sorry, I don't know how to help you with that!\n";
 		}
 	}
-
-	//include function to return new wallet and savings to player stats
-
 }
