@@ -2,10 +2,11 @@
 #include <fstream>
 #include <string>
 
-character::character(short a, int b, int c) {
+character::character(short a, int b, int c, double d) {
 	region = a;
 	wallet = b;
 	savings = c;
+	interest = d;
 }
 
 void character::create() {
@@ -33,18 +34,21 @@ void character::load() {
 		case 2:
 			savings = stoi(line);
 			break;
+		case 3:
+			interest = stod(line);
+			break;
 		}
 	}
 }
 
-void character::overwrite(short a, int b) {
+void character::overwrite(short a, std::string b) {
 	std::string line;
 
 	std::ofstream outFile;
 	std::ifstream inFile;
 
 	short index = a;
-	int data = b;
+	std::string data = b;
 
 	inFile.open("chardata.txt");
 	outFile.open("hold.txt");
@@ -85,4 +89,8 @@ int character::getWallet() {
 
 int character::getSavings() {
 	return savings;
+}
+
+double character::getInterest() {
+	return interest;
 }
