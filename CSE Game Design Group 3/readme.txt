@@ -3,7 +3,7 @@ chardata.txt INDICES:
 0: region
 1: wallet
 2: savings
-3:
+3: interest
 4:
 5:
 6:
