@@ -31,10 +31,7 @@ int main() {
 
 	bank b1(interest, savings, wallet);
 	b1.interact();
-<<<<<<< HEAD
 
 	newChar.overwrite(1, std::to_string(b1.wallet));
 	newChar.overwrite(2, std::to_string(b1.savings));
-=======
->>>>>>> f05123669650d0816c46de035fde86d7583a6007
 }
