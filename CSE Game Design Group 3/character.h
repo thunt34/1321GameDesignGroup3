@@ -1,5 +1,7 @@
 #pragma once
 #include <string>
+#include <fstream>
+#include <iostream>
 
 class character {
 private:
@@ -8,16 +10,15 @@ private:
 	double interest;
 
 public:
-	character(short a, int b, int c, double d);
+	std::string name;
+	character();
+	void setname();
 	short getRegion();
 	int getWallet();
-	void setWallet();
 	int getSavings();
-	void setSavings();
 	double getInterest();
 	void create();
 	void load();
 	void overwrite(short a, std::string b);
-
+	void giveCoin(int a);
 };
-
