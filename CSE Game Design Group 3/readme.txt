@@ -1,10 +1,10 @@
 chardata.txt INDICES:
 
-0: region
+0: name
 1: wallet
 2: savings
 3: interest
-4:
+4: region
 5:
 6:
 7:
