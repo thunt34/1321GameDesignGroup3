@@ -1,4 +1,4 @@
-Title -- Quests of Genesis
+Title -- The Quests of Genesis
 
 Intro: 
 
@@ -8,23 +8,40 @@ The world we live on is currently involved in intergalactic war affairs with man
 The Earth is one of only a few hundred remaining populations in our galaxy to help defend against the impending threat of the other galaxies. 
 
 You are a member of the legendary Genesis Corps., known for their purpose of inspiring and maintaining universal peace. 
-You were just hired to be a part of the Intergalactic Office of Security Negotiations and Agreements, where you will be spending your time traveling intergalactically to present negotiations and secure agreements between our galaxy and the emperors and grand leaders across the universe.
+You were recently hired to be a part of the Intergalactic Office of Security Negotiations and Agreements, where you will be spending your time traveling intergalactically to present negotiations and secure agreements between our galaxy and the many realms and galaxies across the universe.
 
-{Next Slide}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-For your first task, you will travel to the Outer District to gain the favor of 
+For your first task, you will travel to the Outer District to gain the favor of Emperor Draconus of the Drakain Realm. 
 
-Region Names (Planets and Galaxies):
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Shop Names (Name and Location):
+(First travel sequence)
+Zero: Each new location you visit, you will have multiple encounters with enemies. Watch your health and track your experience!
 
-Bank Names (Name and Location):
+(First shopping sequence)
+Zero: Here you have an opportunity to shop for supplies and upgrades that may help you along your journey. Be wary of how much the products cost and how much you spend in order to ensure you don't run out of money!
 
-Shop Keepers:
+(First banking sequence)
+Zero: Here you have an opportunity to interact with a bank. You will be allowed to deposit and withdraw money if you would like. Keep an eye on how much money you have an how much the inflation rates change as you travel between locations!
 
-Bank Tellers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After reaching the world of Drakain and fighting your way through the horrific Drakonic Castle, you were finally able to reach Emperor Draconus in his throne room. 
+
+Within only minutes, he agrees to the negotiations presented by the Genesis Corps, securing the alliance of the Drakain Realm with the humans of our home galaxy. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
+
+
+
+
+
+
+
+  
 
 Outro:
