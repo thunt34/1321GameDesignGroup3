@@ -4,7 +4,7 @@ public class shop {
     private int[] shopPrice = new int[6];
     void shopMenu () {
         System.out.println("Welcome to the Shop of " + /*newChar.getRegion()*/ "" + ". What would you like to buy today?" );
-        System.out.println("HP: newChar.getHealth() | Wallet: newChar.getWallet()");
+        System.out.println("HP: /*newChar.getHealth()*/ | Wallet: /*newChar.getWallet()*/");
         System.out.println("\n[1] Upgrade Sword [" + /*current level sword*/"" + "/(max level)] $price || Description");
         System.out.println("[2] Upgrade Armor [" + /*current level armor*/"" + "/(max level)] $price || Description");
         System.out.println("[3] Buy Heal Potion $price || Description");
