@@ -5,15 +5,7 @@
  *      Author: chazdooley
  */
 
-
-/*
- * What's left for the title page...?
- * - Find a name for the World
- * - Find a game Title
- * - Insert functions for NEW GAME and LOAD GAME
- * - Include HELP functions based off of in-game actions
- */
-
+//All that is left is to insert a list of HELP entries to assist the user as they go through their journey
 
 #include <iostream>
 #include <string>
@@ -37,7 +29,7 @@ int main (){
 	sleep_for(seconds(1));
 	sleep_until(system_clock::now() + seconds(2));
 
-	cout << "Welcome to ________" << endl;
+	cout << "Welcome to the Genesis Corps!" << endl;
 	sleep_for(milliseconds(1500));
 
 	cout << "~ Press ENTER to continue ~" << endl;
@@ -55,7 +47,7 @@ int main (){
 	cout << "Hello " << username << "! Nice to meet you. " << endl;
 	sleep_for(seconds(1));
 
-	cout << "My name is Zero and I am here to guide you on your amazing quest!" << endl;
+	cout << "My name is Zero and I am here to guide you on your amazing quests!" << endl;
 	sleep_for(seconds(4));
 
 	cout << "First, I would like to show you to your main menu..." << endl;
@@ -94,7 +86,7 @@ int main (){
 
 	sleep_for(seconds(2));
 
-	cout << "I'll leave you to it. Enjoy the world of ___________!" << endl;
+	cout << "I'll leave you to it. Enjoy the Quests of Genesis!" << endl;
 
 	sleep_for(seconds(4));
 
