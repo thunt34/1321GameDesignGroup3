@@ -1,6 +1,42 @@
 Title -- The Quests of Genesis
 
+Region Names (Realms/Galaxies):
+-	Drakain Realm (Emperor Draconus)
+  -	Stable Economy (low to null inflation rate)
+  -	Citizens (Drakin/Drakain)
+    -	Dragon-like form
+  -	Enemies (Drakain Soldiers)
+   -	Sharp teeth, rough scale-skin, strong tail
+-	Arcane Falls (NO LEADER)
+  -	Moderate economy (mid to low inflation rate)
+  -	Citizens (NONE)
+  -	Enemies (Sirens)
+    -	Hypnotic voice
+-	Technocosm (President Torus -- OVERTHROWN)
+  -	High inflation rate
+  -	Citizens (Techs)
+   -	Cyborgs (half-human, half-technology)
+  -	Enemies (Invaders)
+    -	Strong weapons and heavy military arsenal
+-	Planet Widren (Boss Dryge)
+  -	Unstable economy (very high inflation rate)
+  -	Citizens (Sand/Sandies)
+    -	Mostly human, but very sandy
+  -	Enemies (Red Sandies [Rebels])
+    -	Harsh and virtually impenetrable skin
 
+Shop Names (Name, Location, Store Owner):
+-	Dragonic Emporium, Drakain, Mr. Het
+-	Aquatic’s, Arcane Falls, NONE
+-	Techaplex, Technocosm, Shop Robot
+-	The Sand Dollar, Planet Widren, Tyrene Drie
+
+
+Bank Names (Name, Location, Bank Teller):
+-	Wyra United, Drakain, Mrs. Het
+-	Atlantic & Pacific, Arcane Falls, NONE
+-	Tech Financials ,Technocosm, Bank Robot
+-	Glass Banks, Planet Widren, Tyrone Drie
 
 
 
@@ -12,12 +48,12 @@ Intro:
 The world we live on is currently involved in intergalactic war affairs with many of our neighboring galaxies. 
 The Earth is one of only a few hundred remaining populations in our galaxy to help defend against the impending threat of the other galaxies. 
 
-You are a member of the legendary Genesis Corps., known for their purpose of inspiring and maintaining universal peace. 
+You are a member of the legendary Genesis Corps, known for their purpose of inspiring and maintaining universal peace. 
 You were recently hired to be a part of the Intergalactic Office of Security Negotiations and Agreements, where you will be spending your time traveling intergalactically to present negotiations and secure agreements between our galaxy and the many realms and galaxies across the universe.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On your very first day post-training, your department has sent you out with one task...
+On your very first day post-training, your department has sent you out with a single task...
 
 For your first task, you will travel to the Outer District to gain the favor of Emperor Draconus of the Drakain Realm. 
 
@@ -37,6 +73,9 @@ Zero: Here you have an opportunity to shop for supplies and upgrades that may he
 Zero: Here you have an opportunity to interact with a bank. You will be allowed to deposit and withdraw money if you would like. Keep an eye on how much money you have an how much the inflation rates change as you travel between locations!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(After enounters)
+
+[OBTAINED Treatice of Negotiations (Drakain)]
 
 After reaching the world of Drakain and fighting your way through the horrific Drakonic Castle, you were finally able to reach Emperor Draconus in his throne room. 
 
@@ -63,6 +102,9 @@ The Arcane Falls are guarded by extremely beautiful, but equally powerful Sirens
 Zero: Legends state that very few in the history of the universe have successfully defeated the Sirens and retrieved water from the Arcane Falls. You will need to shop for upgrades and other supplies to survive, along with banking once again in order to make sure you have access to all the money you need. Do not forget to pay attention to your health, stats, and money as you continue through your adventure!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(After enounters)
+
+[OBTAINED Mystic Waters of Arcane Falls]
 
 The battles were hard fought, but in the end, you were finally able to best the terrifyingly beautiful beasts, striking your mark upon history and securing the water needed for your negotiations with Planet Widren. 
 
@@ -70,28 +112,49 @@ With the overwhelming feeling of victory and the forsight of a conflict soon to 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-(Second travel sequence)
-The first of your supplies to bring to the Planet Widren is water. 
-
-There is only one spot in the many galaxies one could find copoious amounts of pure water that is easily intergalactically transportable -- the Arcane Falls. 
-
-The Arcane Falls are guarded by extremely beautiful, but equally powerful Sirens, with voices powerful enough to sway even the strongest of minds to their will.
+As you made your way to your next location, you recieved a new transmission from the Genesis Corps HQ. The amazing world of Technocosm, with all of your necessary materials, is currently under siege. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-(Second shopping and banking sequences)
-Zero: Legends state that very few in the history of the universe have successfully defeated the Sirens and retrieved water from the Arcane Falls. You will need to shop for upgrades and other supplies to survive, along with banking once again in order to make sure you have access to all the money you need. Do not forget to pay attention to your health, stats, and money!
+(Third travel sequence)
+Making quick haste in order to help prevent the siege from continuing, you accelerate even quick towards the unsuspecting world. 
+
+On arrival, you can see that the damage is already catastrophic. Cities that used to be bustling with energy and intimidating with towering technological structures has been reduced to miles upon miles of ruined cities. 
+
+It is your job to do what you can to try and help fend off some of these invaders while also obtaining the supplies you require for the Planet Widren.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Third shopping and banking sequences)
+Zero: Foreign invaders have left Technocosm in ruins! Due to an unstable economy, prices here will be much higher than they were at previous locations. Keep saving and be wise about your spending!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(After enounters)
+
+[OBTAINED Enhanced Tech Supplies of Technocosm]
 
 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+(Fourth travel sequence)
 
-  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Outro:
+(Fourth shopping and banking sequences)
+Zero: 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(After encounters)
 
+[OBTAINED Treatice of Negotiations (Planet Widren)]
 
+Mission Completed!
+
+You have brough our galaxy closer to safety and the Genesis Corps much stronger in securing negotations and ensuring universal peace!
+Without your spectacular skills of managing your health, resources, money, and paying attention to economic aspects, the universe would be under certain turmoil. 
+
+Zero: Thanks for playing "The Quests of Genesis!" Feel free to play again anytime! Until then, hope to see you soon!
 
 
 
