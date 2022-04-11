@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-﻿  Main.cpp
-=======
-﻿  combat.cpp
-C:\Users\timmh\source\repos\Group3Main\CSE Game Design Group 3\combat.cpp(30,12): warning C4102: 'Default': unreferenced label
->>>>>>> Stashed changes
-  CSE Game Design Group 3.vcxproj -> C:\Users\timmh\source\repos\Group3Main\x64\Debug\CSE Game Design Group 3.exe
