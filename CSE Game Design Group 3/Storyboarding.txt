@@ -133,21 +133,42 @@ Zero: Foreign invaders have left Technocosm in ruins! Due to an unstable economy
 
 [OBTAINED Enhanced Tech Supplies of Technocosm]
 
+As the siege seemed to increase in intensity, you managed to run through and briefly incapacitate many of the invaders surrounding an invading ship. With the invaders incapacitated and unable to stop you, you took control of the ship and sent it barrelling straight towards the invading mothership at dangerous speeds and weapons blazing. 
 
+With no more than mere seconds left, you rocketed yourself out from the kamikaze ship and released your extremely convenient parachute just as the ship made impact. 
+
+In no time at all, many of the invading ships began to plummet towards the ground. Luck enough for you (and the many cities of Technocosm), the invading ships and the invaders themselves were no more than pawns controlled by the mothership. Now that the ship had been virtually destroyed, there was nothing left to control the catastrophic invasion that had started. 
+
+As you made it back to the ground, you were greeted generously by a short man with a very wide grin, and hovering behind him was a giant container. The short man introduced himself as President Torus, the leader of Technocosm. He thanked you dearly for your efforts in saving his world. He mentioned that only minutes before the start of the invasion, he had recieved a transmission from the Genesis Corps, requesting the technologically advanced supplies to be provided to assist the Planet Widren. With no thought at all, he graciously gave you the towereing container, which was filled to the brim with all kinds of futuristic technologies. President Torus then said his goodbyes and sent you on your way. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (Fourth travel sequence)
+Now that you have all of the materials necessary, you can now make your final trip accross the universe to the Ghost District, where you will finally be able to reach Planet Widren. 
+
+The trip through the universe was very smooth and took only about a day and a half at most. After finally reaching the desert planet, you set down your ship on the outskirts of the city. 
+
+The city was deserted for the most part, with a few occasional red-colored citizens making their way through alleyways and other more hidden spots --  something seemed off.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (Fourth shopping and banking sequences)
-Zero: 
+Zero: This town seems deserted...Unfortunately though, despite the lack of citizens, the inflation rate of this planet has gone through the rood
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As you approached the palace of the Widren Boss, you began to hear yourself becoming surrounded...
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 (After encounters)
 
 [OBTAINED Treatice of Negotiations (Planet Widren)]
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mission Completed!
 
