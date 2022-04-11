@@ -1,2 +1,6 @@
-﻿  Main.cpp
+﻿  shop.cpp
+C:\Users\timmh\source\repos\Group3Main\CSE Game Design Group 3\shop.cpp(21,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\timmh\source\repos\Group3Main\CSE Game Design Group 3\shop.cpp(22,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\timmh\source\repos\Group3Main\CSE Game Design Group 3\shop.cpp(23,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\timmh\source\repos\Group3Main\CSE Game Design Group 3\shop.cpp(24,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   CSE Game Design Group 3.vcxproj -> C:\Users\timmh\source\repos\Group3Main\x64\Debug\CSE Game Design Group 3.exe

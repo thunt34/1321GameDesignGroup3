@@ -31,6 +31,39 @@ short world::encounter_val() {
 		return rand() % 4 + 1;
 }
 
+void world::regionIntro(short a) {
+	switch (a) {
+	case 0:
+		std::cout << "This is the intro region, you will find a tutorial here!";
+		std::this_thread::sleep_for(std::chrono::seconds(3));
+		system("cls");
+		break;
+	case 1:
+		std::cout << "This is the first region, you will encounter goblins here.";
+		std::this_thread::sleep_for(std::chrono::seconds(3));
+		system("cls");
+		break;
+	case 2:
+		std::cout << "This is the second region, you will encounter skeletons here.";
+		std::this_thread::sleep_for(std::chrono::seconds(3));
+		system("cls");
+		break;
+	case 3:
+		std::cout << "This is the third region, you will encounter trolls here.";
+		std::this_thread::sleep_for(std::chrono::seconds(3));
+		system("cls");
+		break;
+	}
+}
+
 short world::getNum_Encounters() {
 	return num_encounters;
+}
+
+void world::setInflation(short a) {
+	inflation = a * 0.2;
+}
+
+float world::getInflation() {
+	return inflation;
 }

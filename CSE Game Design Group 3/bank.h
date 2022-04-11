@@ -10,5 +10,4 @@ public:
 	int withdraw(int amt);
 	int deposit(int amt);
 	void interact();
-
 };

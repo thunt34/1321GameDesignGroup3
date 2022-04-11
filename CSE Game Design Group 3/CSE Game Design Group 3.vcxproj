@@ -141,11 +141,22 @@
   <ItemGroup>
     <ClCompile Include="bank.cpp" />
     <ClCompile Include="character.cpp" />
+    <ClCompile Include="combat.cpp" />
+    <ClCompile Include="enemy.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="shop.cpp" />
+    <ClCompile Include="title.cpp" />
+    <ClCompile Include="world.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bank.h" />
     <ClInclude Include="character.h" />
+    <ClInclude Include="combat.h" />
+    <ClInclude Include="enemy.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="shop.h" />
+    <ClInclude Include="title.h" />
+    <ClInclude Include="world.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
