@@ -29,14 +29,14 @@ Shop Names (Name, Location, Store Owner):
 -	Dragonic Emporium, Drakain, Mr. Het
 -	Aquatic’s, Arcane Falls, NONE
 -	Techaplex, Technocosm, Shop Robot
--	The Sand Dollar, Planet Widren, Tyrene Drie
+-	The Sand Dollar, Planet Widren, Red Sand
 
 
 Bank Names (Name, Location, Bank Teller):
 -	Wyra United, Drakain, Mrs. Het
 -	Atlantic & Pacific, Arcane Falls, NONE
 -	Tech Financials ,Technocosm, Bank Robot
--	Glass Banks, Planet Widren, Tyrone Drie
+-	Glass Banks, Planet Widren, Red Sand
 
 
 
