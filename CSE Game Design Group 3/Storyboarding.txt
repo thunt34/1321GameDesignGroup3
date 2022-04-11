@@ -153,20 +153,35 @@ The city was deserted for the most part, with a few occasional red-colored citiz
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (Fourth shopping and banking sequences)
-Zero: This town seems deserted...Unfortunately though, despite the lack of citizens, the inflation rate of this planet has gone through the rood
+Zero: This town seems deserted...Unfortunately though, despite the lack of citizens, the inflation rate of this planet has gone through the roof! I hope you have saved and spent your money wisely. This is your last location, but also the most difficult of them all. Be smart and strategic and show this planet how the Genesis Corps rolls!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As you approached the palace of the Widren Boss, you began to hear yourself becoming surrounded...
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Suddenly, you hear the loud sound of flinging chains, and a trap door flies out from under you. 
 
+You fall, with little hope of recovering yourself. It seems like a hopeless fall...the pit below you is dark and seemingly empty. 
+
+Just as you begin to accept your quick and unfortunate demise, you catch a brief, dim sight of a loose rope next to you as you fall. Immediately feeling hopeful, you grasp onto the rope with all the strength you have and begin to hoist yourself back up to the top of the hole. Someone must have accidentally left it laying around near the trap door. 
+
+As you climb up to the top, you catch a glimpse of a flag hanging from the top of the Boss's palace. It is splattered with red paint, with a dark outline of the Widren's global flag. It did not take much more to realize where you were and what happened to the Boss and the citizens of Widren. 
+
+Reaching the top, you look around and lift yourself back out of the trap door. With little to no hesitation, a loud battle cry was heard from the corner of the palace, and suddenly, you found yourself surrounded...
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (After encounters)
 
 [OBTAINED Treatice of Negotiations (Planet Widren)]
 
+The red-colored citizens were known as the Red Sandies -- a rebel group with the sole purpose of overthrowing the Widren government and wrecking the Widren economy. 
 
+After one battle cry came another -- and another -- and another until all of them were screaming. The all attempted to lunge at you all at one time, but your skills and abilities proved to be a bit more than they could handle. One by one they reached to you, swinging and lashing, attempting to tear you down and disarm you so they could lock you away. 
+
+After only a few minutes, the aggressive bunch were all knocked unconcious. You searched around each of them for a set of keys, almost certain that you would find a population of people locked deep beneath the tombs of the Boss's palace. 
+
+Sure enough, you found a set of keys and began your search. In very little time, you began to hear yelling deep within the corridors of the under-palace
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
