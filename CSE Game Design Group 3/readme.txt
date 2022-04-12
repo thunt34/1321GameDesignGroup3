@@ -5,9 +5,8 @@ chardata.txt INDICES:
 2: savings
 3: interest
 4: region
-5:
-6:
-7:
+5: attack
+6: defense
+7: HP
 8:
-9:
-10:
+9: existing data indicator
