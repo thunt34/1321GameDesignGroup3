@@ -27,7 +27,7 @@ int main() {
 
 	do {
 		switch (t.mainMenu()) {
-		case 1:
+		case '1':
 			newChar.create();
 			newChar.setname();
 			newChar.overwrite(0, newChar.name);
@@ -35,7 +35,7 @@ int main() {
 			newChar.overwrite(9, std::to_string(1));
 			Continue = 1;
 			break;
-		case 2:
+		case '2':
 			if (newChar.getData(9) == 0) {
 				std::cout << "Sorry! No character data exists yet!";
 				Continue = 0;
@@ -45,10 +45,10 @@ int main() {
 				Continue = 1;
 				break;
 			}
-		case 5:
+		case '5':
 			return 0;
 			break;
-		case 6:
+		case '6':
 			system("cls");
 			short index;
 			newChar.load();
