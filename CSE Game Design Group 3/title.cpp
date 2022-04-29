@@ -107,7 +107,7 @@ void title::startingMainMenu() {
 }
 
 
-short title::mainMenu() {
+char title::mainMenu() {
 	cout << endl;
 	cout << "============================================= \n";
 	cout << " \t\t MAIN MENU \t \n";
@@ -118,7 +118,7 @@ short title::mainMenu() {
 	cout << "[4] ABOUT \n";
 	cout << "[5] EXIT GAME \n";
 
-	int selection;
+ char selection;
 	cout << endl << "MAKE YOUR SELECTION: "; cin >> selection;
 
 	bool isTrue;
@@ -126,7 +126,7 @@ short title::mainMenu() {
 
 
 	do {
-		if (selection == 1 || selection == 2 || selection == 3 || selection == 4 || selection == 5 || selection == 6) {
+		if (selection=='1' || selection == '2' || selection == '3' || selection == '4' || selection == '5' || selection == '6') {
 			isTrue = true;
 		}
 		else {
@@ -135,36 +135,37 @@ short title::mainMenu() {
 
 		if (isTrue == false) {
 			cout << "~~ INVALID SELECTION ~~" << endl;
-			cout << "MAKE YOUR SELECTION: "; cin >> selection;
+			cout << "MAKE YOUR SELECTION: "; 
+			cin >> selection;
 		}
-	} while (isTrue == false);
+
 
 	switch (selection) {
 
-	case 1:
+	case '1':
 		return selection;
 		break;
 
-	case 2:
+	case '2':
 		return selection;
 		break;
 
-	case 3:
+	case '3':
 		this->helpMenu();
 		break;
 
-	case 4:
+	case '4':
 		this->aboutPage();
 		break;
 
-	case 5:
+	case '5':
 		system("cls");
 		cout << endl << "Goodbye for now! Hope to see you soon!";
 		cout << endl;
 		return selection;
 		break;
 
-	case 6:
+	case '6':
 		return selection;
 		break;
 
@@ -172,6 +173,7 @@ short title::mainMenu() {
 
 		break;
 	}
+	} while (isTrue == false);
 }
 
 void title::helpMenu() {
