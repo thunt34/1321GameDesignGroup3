@@ -28,7 +28,7 @@ void shop::interact() {
         std:: cout << "HP: " << charHP << " | Wallet: " << wallet << " credits.\n"
             << "[1] Upgrade Sword (" << charAtk << " >> " << (charAtk + 20) << "): " << swordPrice << " credits.\n"
             << "[2] Upgrade Armor (" << charDef << " >> " << (charDef + 20) << "): " 
-            << armorPrice << " coins.\n"
+            << armorPrice << " credits.\n"
             << "[3] Buy Heal Potion: " << p1Price << " credits. || Heal HP by 20 points.\n"
             << "[4] Buy X Potion: " << p2Price << " credits. || Fully restore HP.\n"
             << "[5] Exit\n";
