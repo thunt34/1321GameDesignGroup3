@@ -136,11 +136,11 @@ void character::attack(enemy& target) {
 	srand((unsigned)time(0));
 	hitchc = (rand() % 50);
 	if (hitchc >= 5) {
+		float damage = (float)(charAtk * (((rand() % 100) / 100) + 1));
+		target.mhealth -= damage;
 		if (target.mhealth < 0) {
 			target.mhealth = 0;
 		}
-		float damage = (float)(charAtk * (((rand() % 100) / 100) + 1));
-		target.mhealth -= damage;
 		std::cout << name << " attacks the " << target.mname << " doing " << damage << " damage!" << endl;
 		std::cout << target.mname << " health: " << target.mhealth << endl;
 	}
