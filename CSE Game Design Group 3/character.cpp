@@ -156,41 +156,53 @@ void character::defense(enemy& target) {
 
 void character::heal(character& target)
 {
-	int pChoice;
-	int setPotion[2] = { p,maxp };
-	std::cout << "Which Potion do you wish to use?" << endl;
-	std::cout << "1.Potion - " << setPotion[0] << endl;
-	std::cout << "2.Max Potion - " << setPotion[1] << endl;
-
-	std::cin >> pChoice;
-	switch (pChoice) {
-	case 1:
-		if (p == 0) {
-			std::cout << name << " is out of Potions!" << endl;
-		}
-		else {
-			p = p - 1;
-			charHP = charHP + 20;
-			if (charHP > shp) {
-				charHP = shp;
-			}
-		}
-		break;
-
-	case 2:
-		if (maxp == 0) {
-			std::cout << name << " is out of Max Potions!" << endl;
-		}
-		else {
-			maxp = maxp - 1;
-			charHP = shp;
-			if (charHP > shp) {
-				charHP = shp;
-			}
-		}
-		break;
-
-	}
+	string pChoice;
+    int setPotion[2] = {p,maxp};
+  do{
+		cout << "Which Potion do you wish to use?" << endl;
+            cout << "(P)otion - " << setPotion[0] << endl;
+            cout << "(M)ax Potion - " << setPotion[1] << endl;
+            
+            cin >> pChoice;
+  while(pChoice.size() != 1){
+      cout << "Please enter only one character." << endl << endl;
+      cin >> pChoice;
+    }
+            for_each(pChoice.begin(), pChoice.end(), [](char & c) {
+         c = toupper(c);
+      });
+  if((pChoice!="P")&&(pChoice!="M")){
+      cout << "Invalid input!" << endl << endl;
+    }
+    }while((pChoice!="P")&&(pChoice!="M"));
+  if(pChoice=="P"){
+                if (p == 0){
+		        cout << name << " is out of Potions!" << endl;
+                  }
+                else{
+              p = p - 1;
+              charHP = charHP+20;
+                  if(charHP>shp){
+    charHP = shp;
+                    }
+                  }
+    }
+              
+              if(pChoice=="M"){
+                 if (maxp == 0){
+		        cout << name << " is out of Max Potions!" << endl;
+                  }
+                else{
+              maxp = maxp - 1;
+              charHP = shp;
+                  if(charHP>shp){
+    charHP = shp;
+                    }
+                  }
+                }
+   
+              
+    }
 
 }
 void character::flee(character& target) {
