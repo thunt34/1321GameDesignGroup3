@@ -13,7 +13,7 @@ shop::shop(float a, int b, int c, int d, int e) {
 }
 
 void shop::interact() {
-    int shopInput;
+    char shopInput;
     bool exit = 0;
     std::string n = "PLACEHOLDER";
 
@@ -34,7 +34,7 @@ void shop::interact() {
             << "[5] Exit\n";
         std::cin >> shopInput;
 
-        if (shopInput == 1) {
+        if (shopInput == '1') {
             /*buy sword, subtract amount, newChar.overwite(atkindex, (atkindex+1) & newChar.overwite(1, (1-price)*/
             system("cls");
             if (wallet < swordPrice) {
@@ -47,7 +47,7 @@ void shop::interact() {
                 wallet -= swordPrice;
             }
         }
-        else if (shopInput == 2) {
+        else if (shopInput == '2') {
             /*buy armor, subtract amount, newChar.overwite(defindex, (defindex+1) & newChar.overwite(1, (1-price)*/
             if (wallet < armorPrice) {
                 system("cls");
@@ -62,7 +62,7 @@ void shop::interact() {
                 wallet -= armorPrice;
             }
         }
-        else if (shopInput == 3) {
+        else if (shopInput == '3') {
             /*newChar.overwite(hpIndex, hpIndex + x) & newChar.overwite(1, (1-price)*/
             system("cls");
             if (wallet < p1Price) {
@@ -85,7 +85,7 @@ void shop::interact() {
                 }
             }
         }
-        else if (shopInput == 4) {
+        else if (shopInput == '4') {
             /*newChar.overwite(hpIndex, hpIndex + x) & newChar.overwite(1, (1-price)*/
             system("cls");
             if (wallet < p2Price) {
@@ -103,11 +103,12 @@ void shop::interact() {
                 }
             }
         }
-        else if (shopInput == 5) {
+        else if (shopInput == '5') {
             system("cls");
             std::cout << "Thank you for visiting! We wish you the best with your explorations!\n" << std::endl;
             exit = 1;
         }
+        else{ std::cout << "That is not a valid input.\n" << std::endl; }
     } while (exit == 0);
 
     newAtk = charAtk;
