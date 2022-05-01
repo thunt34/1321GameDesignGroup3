@@ -12,10 +12,10 @@ void combat::combatChoice(character& C) {
 
     C.display();
     std::cout << "Press 1 to attack" << endl;
-    short choice;
+    char choice;
     std::cin >> choice;
     switch (choice) {
-    case 1:
+    case '1':
         C.attack(M);
         break;
     /*
