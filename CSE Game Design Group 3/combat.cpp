@@ -3,36 +3,48 @@
 #include "character.h"
 #include <cstdlib>
 #include <ctime>
-
+#include <stdio.h>
+#include <ctype.h>
+#include <string>
+#include <algorithm>
 combat::combat(enemy& newM) : M(newM) {
 
 }
 
 void combat::combatChoice(character& C) {
 
-    C.display();
-    std::cout << "Press 1 to attack" << endl;
-    short choice;
-    std::cin >> choice;
-    switch (choice) {
-    case 1:
-        C.attack(M);
-        break;
-    /*
-    case 2:
-        C.heal(C);
-        break;
+   C.display();
+  string choice;
+  do{
+    cout << "What do you do? (a)ttack, (h)eal, (f)lee" << endl;
+  
+      cin >> choice;
 
-    case 3:
-        C.flee(C);
-        break;
-    */
-    default:
-        std::cout << "Can't do that!\n";
-        break;
+    while(choice.size() != 1){
+      cout << "Please enter only one character." << endl << endl;
+      cin >> choice;
     }
-}
 
+    for_each(choice.begin(), choice.end(), [](char & c) {
+         c = tolower(c);
+      });
+    
+    if((choice!="a")&&(choice!="h")&&(choice!="f")){
+      cout << "Invalid input!" << endl << endl;
+    }
+
+    }while((choice!="a")&&(choice!="h")&&(choice!="f"));
+  
+          if(choice == "a"){
+            C.attack(M);
+            }
+          else if(choice == "h"){
+            C.heal(C);
+    }
+
+          else if(choice == "f"){
+            C.flee(C);
+  }
 
 void combat::combat1(character& C) {
 
