@@ -16,7 +16,7 @@ public:
 	title();
 	void newPlayerIntro(bool a);
 	void startingMainMenu();
-	short mainMenu();
+	char mainMenu();
 	void helpMenu();
 	void aboutPage();
 
