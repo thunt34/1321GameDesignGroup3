@@ -2,6 +2,9 @@
 #include <fstream>
 #include <string>
 #include <iostream>
+#include <stdio.h>
+#include <ctype.h>
+#include <algorithm>
 
 character::character(){
 	name = "null";
