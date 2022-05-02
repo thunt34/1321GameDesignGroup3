@@ -1,12 +1,16 @@
 #include "combat.h"
 #include "enemy.h"
 #include "character.h"
+#include "catch_err.h"
+#include <string>
 #include <cstdlib>
 #include <ctime>
 #include <stdio.h>
 #include <ctype.h>
-#include <string>
 #include <algorithm>
+
+catch_err c;
+
 combat::combat(enemy& newM) : M(newM) {
 
 }
