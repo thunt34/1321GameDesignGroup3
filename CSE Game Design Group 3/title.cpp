@@ -1,5 +1,3 @@
-#include "title.h"
-
 /*
  * title.cpp
  *
@@ -8,6 +6,7 @@
  */
 
 #include "title.h"
+#include "catch_err.h"
 #include <iostream>
 #include <string>
 #include <thread>
@@ -17,6 +16,7 @@ using namespace std;
 using namespace std::this_thread;
 using namespace std::chrono;
 
+catch_err e;
 
 title::title() {
 	// TODO Auto-generated constructor stub
@@ -117,10 +117,20 @@ short title::mainMenu() {
 	cout << "[3] HELP \n";
 	cout << "[4] ABOUT \n";
 	cout << "[5] EXIT GAME \n";
+	
+	std::string in;
+	
+	do {
+		cout << endl << "MAKE YOUR SELECTION: "; cin >> in;
+		if (e.getVal(in) == -1) {
+			std::cout << "Invalid!\a\n";
+		}
+		else {
+			continue;
+		}
+	} while (e.err(in) == 0);
 
-	int selection;
-	cout << endl << "MAKE YOUR SELECTION: "; cin >> selection;
-
+	int selection = std::stoi(in);
 	bool isTrue;
 
 
