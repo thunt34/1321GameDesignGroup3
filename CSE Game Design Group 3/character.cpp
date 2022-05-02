@@ -207,7 +207,6 @@ void character::heal(character& target)
               
     }
 
-}
 void character::flee(character& target) {
 	srand((unsigned)time(0));
 	cflee = (rand() % 10);
