@@ -11,9 +11,10 @@ void enemy::attack(character& target)
             target.charDef = 0;
         }
           if(mdamage > target.charDef){
+              float damage = (float)(mdamage * (((rand() % 100) / 100) + 1));
       float excess = damage - target.charDef;
               if(target.charDef > 0){
-      target.health -= excess;
+      target.charHP -= excess;
               }
     }
         if (target.charDef == 0) {
